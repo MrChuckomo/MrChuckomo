@@ -7,6 +7,7 @@
 ## Portfolio
 
 - [Fluorid Check](https://fluorid-check.vercel.app/)
+- [Fluorid Check: iOS App](https://apps.apple.com/de/app/fluorid-check/id6461217155)
 - [Deck of Games](https://www.deckofgames.eu/)
 
 ---
