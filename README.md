@@ -58,7 +58,7 @@
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&style=for-the-badge&&logoColor=white)
 ![iTerm2](https://img.shields.io/badge/iTerm2-000000?logo=iterm2&style=for-the-badge&logoColor=fff)
-![tmux](https://img.shields.io/badge/tmux-1BB91F?logo=tmux&style=for-the-badge&logoColor=fff)
+![tmux](https://img.shields.io/badge/tmux-%23000000?style=for-the-badge&logo=tmux&logoColor=%231BB91F)
 
 ### OS
 
